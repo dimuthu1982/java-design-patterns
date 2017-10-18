@@ -1,4 +1,4 @@
-package test.designpattern.observer;
+package test.designpattern.behavioral.observer;
 
 public interface IObservable {
 
